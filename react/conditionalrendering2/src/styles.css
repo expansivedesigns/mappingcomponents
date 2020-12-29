@@ -1,0 +1,30 @@
+.App-wrapper {
+	width: 500px;
+	background-color: #ffccff;
+	height: 100%;
+	text-align: center;
+}
+
+.App-header {
+	height: 100px;
+	background-color: #800080;
+	color: #ffffff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.App-body {
+	padding: 2px 10px;
+}
+
+.App-footer {
+	height: 50px;
+	background-color: #800080;
+	color: #ffffff;
+	font-size: 12px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: 200px;
+}
